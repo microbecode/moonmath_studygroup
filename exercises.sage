@@ -20,11 +20,12 @@
 
 # 17:
 # 69x ≡ 5 ( mod 23 )
-# check coprime 69 & 23. gcd(69,23) = 1 => can divide by 69.
-# x = 5/69 (mod 23). No answers in Z
+# (3*23)x ≡ 5 ( mod 23 )
+# (3*0) = 5 mod 23
+# 0 = 5. No solutions
 
 # 18: 
 # 69x ≡ 46 ( mod 23 )
-# check coprime 69 & 23. gcd(69,23)
-# x = 46/69 (mod 23). No answers in Z
+# (3*23)x ≡ (2*23) ( mod 23 )
+# 0 = 0 (mod 23)
 
